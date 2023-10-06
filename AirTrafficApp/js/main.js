@@ -5,11 +5,11 @@ let btn = document.querySelector('#btnMap');
 let switchBtn = document.querySelector('.switch');
 let header = document.querySelector('.header');
 let searchDiv = document.querySelector('.searchDiv');
-let input = document.querySelector('.form-control');
-let tBody = document.querySelector('#tBody');
-let flydetaliesDiv = document.querySelector('.flydetalies');
+let input = document.querySelector('.form-control')
+let tBody = document.querySelector('#tBody')
+let flydetaliesDiv = document.querySelector('.flydetalies')
 let tBodyFlight = document.querySelector('#tBodyFlight');
-let flightboardDiv = document.querySelector('.flightboard');
+let flightboardDiv = document.querySelector('.flightboard')
 let shareDiv = document.querySelector('.shareDiv');
 let close = document.querySelector('.close');
 
